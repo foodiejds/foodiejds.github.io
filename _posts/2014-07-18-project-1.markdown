@@ -2,6 +2,7 @@
 layout: default
 modal-id: 1
 img: cake.png
+price: £30
 alt: image-alt
 description: 1 story with the content of your choice for 24hrs - Price: £30
 
