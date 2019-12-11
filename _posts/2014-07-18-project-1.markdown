@@ -4,6 +4,6 @@ modal-id: 1
 date: 2014-07-17
 img: cake.png
 alt: image-alt
-description: 1 Story with the content of your choice - Price £30
+description: 1 Story - Price £30
 
 ---
