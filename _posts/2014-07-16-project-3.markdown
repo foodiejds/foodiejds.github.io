@@ -3,7 +3,7 @@ title: option 3
 layout: default
 modal-id: 3
 date: 2014-07-17
-img: cake.png
+img: sushi.png
 alt: image-alt
 description: 1 Post + 1 Story + 1 Day Link in Bio - £100
 
